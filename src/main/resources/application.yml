@@ -1,0 +1,42 @@
+stocks:
+  products:
+    A:
+      price: 10.28
+      availableStock: 9
+      part: Humanoid Face
+    B:
+      price: 24.07
+      availableStock: 7
+      part: LCD Face
+    C:
+      price: 13.30
+      availableStock: 0
+      part: Steampunk Face
+    D:
+      price: 28.94
+      availableStock: 1
+      part: Arms with Hands
+    E:
+      price: 12.39
+      availableStock: 3
+      part: Arms with Grippers
+    F:
+      price: 30.77
+      availableStock: 2
+      part: Mobility with Wheels
+    G:
+      price: 50.13
+      availableStock: 15
+      part: Mobility with Legs
+    H:
+      price: 50.00
+      availableStock: 7
+      part: Mobility with Tracks
+    I:
+      price: 90.12
+      availableStock: 92
+      part: Material Bioplastic
+    J:
+      price: 82.31
+      availableStock: 15
+      part: Material Metallic
